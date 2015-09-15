@@ -8,4 +8,9 @@
 * Intermediate functions are implcitly lazy. 
 * Streams are lazy.
 * Until the Terminal functions is called the intermidiate function is not called.
-* Interfaces can have default method. 
+* Interfaces can have default method.
+* Improved performance due to lazy invocation. 
+
+##### Execute around method pattern
+##### Cascade method pattern
+
