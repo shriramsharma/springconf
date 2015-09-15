@@ -10,4 +10,3 @@ Spring DATA Modules
 * Solr
 * MongoDB
 * KeyValue
-
